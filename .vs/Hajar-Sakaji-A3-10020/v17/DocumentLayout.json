@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B93D829-4198-00AE-4513-46F9E64C50E8}|Assembly-CSharp.csproj|c:\\users\\hajar\\unity 10009\\hajar-sakaji-a3-10020\\assets\\scripts\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\SUPER Character Controller\\SUPER Character Controller\\SUPERCharacterAIO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SUPER Character Controller\\SUPER Character Controller\\SUPERCharacterAIO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B93D829-4198-00AE-4513-46F9E64C50E8}|Assembly-CSharp.csproj|C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\assets\\scripts\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B93D829-4198-00AE-4513-46F9E64C50E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\can game\\Assets\\scripts\\CarEscape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\can game\\Assets\\scripts\\CarEscape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\SUPER Character Controller\\SUPER Character Controller\\SUPERCharacterAIO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SUPER Character Controller\\SUPER Character Controller\\SUPERCharacterAIO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\ObjectPickup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,43 +106,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StateSearchForPlayer.cs",
-              "DocumentMoniker": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\StateSearchForPlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\StateSearchForPlayer.cs",
-              "ToolTip": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\StateSearchForPlayer.cs",
-              "RelativeToolTip": "Assets\\scripts\\StateSearchForPlayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T04:25:55.079Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "StateChase.cs",
-              "DocumentMoniker": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\StateChase.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\StateChase.cs",
-              "ToolTip": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\StateChase.cs",
-              "RelativeToolTip": "Assets\\scripts\\StateChase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T04:24:43.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StateIdle.cs",
-              "DocumentMoniker": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\StateIdle.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\StateIdle.cs",
-              "ToolTip": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\StateIdle.cs",
-              "RelativeToolTip": "Assets\\scripts\\StateIdle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T04:23:50.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "StatePatrol.cs",
               "DocumentMoniker": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\StatePatrol.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\StatePatrol.cs",
@@ -154,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\can game\\Assets\\scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\can game\\Assets\\scripts\\GameManager.cs",
@@ -165,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CarEscape.cs",
               "DocumentMoniker": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\can game\\Assets\\scripts\\CarEscape.cs",
               "RelativeDocumentMoniker": "Assets\\can game\\Assets\\scripts\\CarEscape.cs",
@@ -176,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MessageManager.cs",
               "DocumentMoniker": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\can game\\Assets\\scripts\\MessageManager.cs",
               "RelativeDocumentMoniker": "Assets\\can game\\Assets\\scripts\\MessageManager.cs",
@@ -187,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "JewelryRespawner.cs",
               "DocumentMoniker": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\JewelryRespawner.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\JewelryRespawner.cs",
@@ -198,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PlayerReset.cs",
               "DocumentMoniker": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\PlayerReset.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\PlayerReset.cs",
@@ -210,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AIController.cs",
               "DocumentMoniker": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\AIController.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\AIController.cs",
@@ -218,8 +182,7 @@
               "RelativeToolTip": "Assets\\scripts\\AIController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T03:35:26.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T03:35:26.578Z"
             },
             {
               "$type": "Document",
@@ -235,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ObjectPickup.cs",
               "DocumentMoniker": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\can game\\Assets\\scripts\\ObjectPickup.cs",
               "RelativeDocumentMoniker": "Assets\\can game\\Assets\\scripts\\ObjectPickup.cs",
@@ -246,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "SUPERCharacterAIO.cs",
               "DocumentMoniker": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\SUPER Character Controller\\SUPER Character Controller\\SUPERCharacterAIO.cs",
               "RelativeDocumentMoniker": "Assets\\SUPER Character Controller\\SUPER Character Controller\\SUPERCharacterAIO.cs",
@@ -254,6 +217,42 @@
               "RelativeToolTip": "Assets\\SUPER Character Controller\\SUPER Character Controller\\SUPERCharacterAIO.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T21:17:26.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StateIdle.cs",
+              "DocumentMoniker": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\StateIdle.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\StateIdle.cs",
+              "ToolTip": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\StateIdle.cs",
+              "RelativeToolTip": "Assets\\scripts\\StateIdle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:23:50.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StateChase.cs",
+              "DocumentMoniker": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\StateChase.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\StateChase.cs",
+              "ToolTip": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\StateChase.cs",
+              "RelativeToolTip": "Assets\\scripts\\StateChase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:24:43.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StateSearchForPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\StateSearchForPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\StateSearchForPlayer.cs",
+              "ToolTip": "C:\\Users\\hajar\\unity 10009\\Hajar-Sakaji-A3-10020\\Assets\\scripts\\StateSearchForPlayer.cs",
+              "RelativeToolTip": "Assets\\scripts\\StateSearchForPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:25:55.079Z"
             },
             {
               "$type": "Document",
